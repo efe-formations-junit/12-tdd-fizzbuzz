@@ -1,0 +1,7 @@
+FizzBuzz
+--------
+
+Créer une fonction qui prend en paramètre un nombre (on suppose que le nombre est toujours compris entre 1 et 100).
+Quand le nombre est un multiple de 3 la fonction doit retourner « fizz », quand le nombre est un multiple de 5 la fonction doit retourner « buzz » 
+et quand le nombre est un multiple de 15 la fonction doit retourner « fizzbuzz » dans tous les autres cas elle doit retourner le nombre.
+
